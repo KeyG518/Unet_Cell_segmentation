@@ -1,4 +1,7 @@
 # UNet: Cell segmentation with PyTorch
+![alt text](/image/Screenshot%20from%202020-02-04%2017-42-19.png)
+![alt text](/image/Screenshot%20from%202020-02-04%2017-42-57.png)
+![alt text](/image/Screenshot%20from%202020-02-04%2017-43-16.png)
 
 
 Customized implementation of the [U-Net](https://arxiv.org/abs/1505.04597) in PyTorch for Kaggle's [Carvana Image Masking Challenge](https://www.kaggle.com/c/carvana-image-masking-challenge) from high definition images.
