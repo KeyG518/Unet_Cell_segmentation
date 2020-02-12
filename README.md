@@ -10,7 +10,7 @@ This model was trained from scratch with 150 images (with data augmentation)This
 ## Usage
 **Note : Use Python 3**
 
-The input images and target masks should be in the `data/imgs` and `data/masks` folders respectively.
+The input images and target masks should be in the `data/cells/scans` and `data/cells/labels` folders respectively.
 
 
 ---
