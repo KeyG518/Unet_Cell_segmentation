@@ -4,7 +4,7 @@
 ![alt text](/image/Screenshot%20from%202020-02-04%2017-43-16.png)
 
 
-Customized implementation of the [U-Net](https://arxiv.org/abs/1505.04597) in PyTorch for Kaggle's [Carvana Image Masking Challenge](https://www.kaggle.com/c/carvana-image-masking-challenge) from high definition images.
+Customized implementation of the [U-Net](https://arxiv.org/abs/1505.04597) in PyTorch.
 
 This model was trained from scratch with 150 images (with data augmentation)This score could be improved with more training, data augmentation, fine tuning, playing with CRF post-processing, and applying more weights on the edges of the masks.
 
